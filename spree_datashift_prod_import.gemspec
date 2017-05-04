@@ -2,6 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_datashift_prod_import'
+  s.version     = '3.0.4'
   s.summary     = 'Datashift Prod Import'
   s.description = 'Datashift Prod Import'
   s.required_ruby_version = '>= 2.0.0'
